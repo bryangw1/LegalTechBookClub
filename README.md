@@ -1,6 +1,4 @@
 # LegalTechBookClub
-Unlocking the potential of legal tech through community and discussion.
-
 The Legal Tech Book Club will serve as a decentralized source of information and discussion about various intersections of law and technology. 
 
 Note: What follows is a first attempt at a structure.
