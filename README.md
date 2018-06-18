@@ -1,5 +1,5 @@
 # LegalTechBookClub
-The Legal Tech Book Club will serve as a decentralized source of information and discussion about various intersections of law and technology. 
+The LegalTechBookClub will serve as a decentralized source of information and discussion about various intersections of law and technology. 
 
 Note: What follows is a first attempt at a structure.
 
