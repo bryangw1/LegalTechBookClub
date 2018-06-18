@@ -83,9 +83,11 @@ Create a pull request. Pull requests confirmed or denied w/ a reason why it was 
 
 **Talks and Interviews**: Must be licensed with some type of open-source license
 
+**Tolerance**: Legal Tech Book Club is committed to providing a harassment-free experience for everyone, regardless of the following: gender, gender identity and expression, age, sexual orientation,  disability, physical appearance, body size, race, ethnicity, nationality, religion, previous hackathon attendance or lack of, computing experience or lack of, chosen programming language or tech stack.
+
 ## Sponsorship
 **Event/Interview Sponsorship**
 
-*Financial Contribution* : covers operating expenditures (website, hosting, gear, meetups, swag etc.)
+**Financial Contribution** : covers operating expenditures (website, hosting, gear, meetups, swag etc.)
 
-*Promotion* : Logo on website + reciprocal mentions on social media, linkedin, etc.
+**Promotion** : Logo on website + reciprocal mentions on social media, linkedin, etc.
